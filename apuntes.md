@@ -13,3 +13,6 @@ Publico: 1r grupo: “General” y 2do grupo: “infantil”. Dentro de “gener
 Literatura y Arte = Intención. 
 La literatura y el arte es una forma de comunicación, para la cual hace falta un canal, que puede ser la literatura, pintura, danza, fotografía y videojuegos. 
 Videojuego: grafico, interactivo. 
+
+Propiedades Intelectuales.
+Tiene que ser ploducio por una persona, Aunque puede usar herramientas.
