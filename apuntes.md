@@ -16,3 +16,6 @@ Videojuego: grafico, interactivo.
 
 Propiedades Intelectuales.
 Tiene que ser ploducio por una persona, Aunque puede usar herramientas.
+Proyecto de la semana
+Videojuegos como texto- Contexto(previo y consequencia) y mensaje.
+Datos que tienen subtexto
